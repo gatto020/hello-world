@@ -1,2 +1,2 @@
 # hello-world
-Exploring GitHub 
+Exploring GitHub. I like cats.
